@@ -74,19 +74,35 @@ int main() {
             }
         }
 
-        if (g.empty() && b.empty())
+        multiset<int, greater<int> >::iterator begin;
+        multiset<int, greater<int> >::iterator end;
+
+        if(b.empty() && g.empty())
         {
-            cout << "green and blue died";
-        } else if (g.empty())
-        {
-            cout << "blue wins" << endl;
-            print_output(b);
-        } else
-        {
-            cout << "green wins" << endl;
-            print_output(g);
+            cout << "green and blue died\n";
+            if(n)
+                cout << "\n";
+            continue;
         }
-        if (n)
+
+        if(b.empty())
+        {
+            cout << "green wins\n";
+
+            end = g.end();
+            begin = g.begin();
+        }
+        else
+        {
+            cout << "blue wins\n";
+
+            end = b.end();
+            begin = b.begin();
+        }
+
+        for(auto i = begin; i != end; ++i)
+            cout << *i << "\n";
+        if(n)
             cout << "\n";
     }
 }
