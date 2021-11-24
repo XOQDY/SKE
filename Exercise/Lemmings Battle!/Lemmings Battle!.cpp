@@ -76,7 +76,7 @@ int main() {
 
         if (g.empty() && b.empty())
         {
-            cout << "green and blue died\n";
+            cout << "green and blue died";
         } else if (g.empty())
         {
             cout << "blue wins" << endl;
@@ -86,5 +86,7 @@ int main() {
             cout << "green wins" << endl;
             print_output(g);
         }
+        if (n)
+            cout << "\n";
     }
 }
