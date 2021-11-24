@@ -6,7 +6,13 @@
 
 using namespace std;
 
-void print_output(const multiset<int, greater<>>(&x))
+void print_output(const multiset<int, greater<int>>(&x))
+{
+    for (int i : x)
+        cout << i << endl;
+}
+
+void vector_output(const vector<int>& x)
 {
     for (int i : x)
         cout << i << endl;
@@ -21,7 +27,7 @@ int main() {
         int bf, sg, sb;
         cin >> bf >> sg >> sb;
 
-        multiset<int, greater<> > g, b;
+        multiset<int, greater<int> > g, b;
 
         for (int i=0; i<sg; ++i)
         {
@@ -70,7 +76,7 @@ int main() {
 
         if (g.empty() && b.empty())
         {
-            cout << "green and blue died" << endl;
+            cout << "green and blue died\n";
         } else if (g.empty())
         {
             cout << "blue wins" << endl;
