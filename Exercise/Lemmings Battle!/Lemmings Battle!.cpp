@@ -57,12 +57,12 @@ int main() {
         } else if (g.empty())
         {
             cout << "blue wins" << endl;
-            sort(b.begin(), b.end(), greater<int>());
+            sort(b.begin(), b.end(), greater<>());
             print_output(b);
         } else
         {
             cout << "green wins" << endl;
-            sort(g.begin(), g.end(), greater<int>());
+            sort(g.begin(), g.end(), greater<>());
             print_output(g);
         }
         cout << "\n";
