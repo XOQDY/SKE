@@ -2,6 +2,7 @@
 #include <algorithm>
 #include <iterator>
 #include <set>
+#include <queue>
 
 using namespace std;
 
@@ -38,6 +39,7 @@ int main() {
 
         while (!g.empty() && !b.empty())
         {
+            queue<int> store_g, store_b;
             int min_bf = min(bf, int(min(g.size(), b.size())));
 
             for (int i=0; i<min_bf; ++i)
@@ -50,10 +52,19 @@ int main() {
                 g.erase(fg);
                 b.erase(fb);
 
-                if (*fg > *fb)
-                    g.insert(*fg - *fb);
-                else if (*fb > *fg)
-                    b.insert(*fb - *fg);
+                store_g.push(*fg);
+                store_b.push(*fb);
+            }
+
+            for (int i=0; i<min_bf; ++i)
+            {
+                if (store_g.front() > store_b.front())
+                    g.insert(store_g.front() - store_b.front());
+                else if (store_b.front() > store_g.front())
+                    b.insert(store_b.front() - store_g.front());
+
+                store_g.pop();
+                store_b.pop();
             }
         }
 
