@@ -80,6 +80,5 @@ int main() {
             cout << "green wins" << endl;
             print_output(g);
         }
-        cout << "\n";
     }
 }
