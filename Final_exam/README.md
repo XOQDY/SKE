@@ -1,1 +1,0 @@
-All sprites are from https://publicdomainvectors.org/.
