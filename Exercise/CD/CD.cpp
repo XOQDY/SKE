@@ -24,14 +24,14 @@ int main()
         {
             for (int i=0; i<m; ++i)
             {
-                if (find(jack.begin(), jack.end(), jill[i]) != jack.end())
+                if (binary_search(jack.begin(), jack.end(), jill[i]))
                     ++cd;
             }
         } else
         {
             for (int i=0; i<n; ++i)
             {
-                if (find(jill.begin(), jill.end(), jack[i]) != jill.end())
+                if (binary_search(jill.begin(), jill.end(), jack[i]))
                     ++cd;
             }
         }
