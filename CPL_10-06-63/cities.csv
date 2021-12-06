@@ -1,0 +1,214 @@
+city,country,region,coastline,latitude,longitude,temperature,highest
+Aalborg,Denmark,Northern,yes,57.03,9.92,7.52,171
+Aberdeen,United Kingdom,Western,yes,57.17,-2.08,8.1,1344
+Abisko,Sweden,Northern,yes,63.35,18.83,0.2,2104
+Adana,Turkey,Southern,yes,36.99,35.32,18.67,5137
+Albacete,Spain,Southern,yes,39,-1.87,12.62,3479
+Algeciras,Spain,Southern,yes,36.13,-5.47,17.38,3479
+Amiens,France,Western,yes,49.9,2.3,10.17,4810
+Amsterdam,Netherlands,Western,yes,52.35,4.92,8.93,321
+Ancona,Italy,Southern,yes,43.6,13.5,13.52,4810
+Andorra,Andorra,Western,no,42.5,1.52,9.6,2942
+Angers,France,Western,yes,47.48,-0.53,10.98,4810
+Ankara,Turkey,Southern,yes,39.93,32.86,9.86,5137
+Antalya,Turkey,Southern,yes,36.89,30.7,11.88,5137
+Arad,Romania,Central and Eastern,yes,46.17,21.32,9.32,2544
+Athens,Greece,Southern,yes,37.98,23.73,17.41,2919
+Augsburg,Germany,Western,yes,48.35,10.9,4.54,2962
+Bacau,Romania,Central and Eastern,yes,46.58,26.92,7.51,2544
+Badajoz,Spain,Southern,yes,38.88,-6.97,15.61,3479
+Baia Mare,Romania,Central and Eastern,yes,47.66,23.58,8.87,2544
+Balti,Moldova,Central and Eastern,no,47.76,27.91,8.23,430
+Barcelona,Spain,Southern,yes,41.38,2.18,15.78,3479
+Bari,Italy,Southern,yes,41.11,16.87,15.15,4810
+Basel,Switzerland,Western,no,47.58,7.59,6.68,4634
+Batman,Turkey,Southern,yes,37.89,41.14,14.16,5137
+Belfast,United Kingdom,Western,yes,54.6,-5.96,8.48,1344
+Belgrade,Serbia,Central and Eastern,no,44.82,20.47,9.85,2169
+Bergamo,Italy,Southern,yes,45.7,9.67,9.12,4810
+Bergen,Norway,Northern,yes,60.39,5.32,1.75,2469
+Berlin,Germany,Western,yes,52.52,13.4,8.72,2962
+Bialystok,Poland,Central and Eastern,yes,53.15,23.17,6.07,2499
+Bielefeld,Germany,Western,yes,52.03,8.53,8.78,2962
+Bila Tserkva,Ukraine,Central and Eastern,yes,49.77,30.13,6.98,2061
+Bilbao,Spain,Southern,yes,43.25,-2.93,11.41,3479
+Birmingham,United Kingdom,Western,yes,52.47,-1.92,8.81,1344
+Blackpool,United Kingdom,Western,yes,53.83,-3.05,9.15,1344
+Bodo,Norway,Northern,yes,67.25,14.4,4.5,2469
+Bologna,Italy,Southern,yes,44.5,11.34,11.69,4810
+Bonn,Germany,Western,yes,50.72,7.08,8.63,2962
+Bordeaux,France,Western,yes,44.85,-0.6,11.87,4810
+Botosani,Romania,Central and Eastern,yes,47.75,26.66,8.23,2544
+Bournemouth,United Kingdom,Western,yes,50.73,-1.9,9.97,1344
+Bradford,United Kingdom,Western,yes,53.8,-1.75,8.39,1344
+Braga,Portugal,Southern,yes,41.55,-8.42,13.42,1993
+Braila,Romania,Central and Eastern,yes,45.29,27.97,9.78,2544
+Bratislava,Slovakia,Central and Eastern,no,48.15,17.12,9.65,2655
+Bremen,Germany,Western,yes,53.08,8.8,8.14,2962
+Brest,Belarus,Central and Eastern,no,52.1,23.7,6.73,345
+Brest,France,Western,yes,48.39,-4.5,11.02,4810
+Brno,Czech Republic,Central and Eastern,no,49.2,16.61,7.86,1603
+Brugge,Belgium,Western,yes,51.22,3.23,9.65,694
+Bucharest,Romania,Central and Eastern,yes,44.43,26.1,10.59,2544
+Budapest,Hungary,Central and Eastern,no,47.5,19.08,9.55,1014
+Burgas,Bulgaria,Central and Eastern,yes,42.51,27.47,11.93,2925
+Burgos,Spain,Southern,yes,42.35,-3.68,10.45,3479
+Bursa,Turkey,Southern,yes,40.2,29.07,11.16,5137
+Bydgoszcz,Poland,Central and Eastern,yes,53.12,18.01,7.14,2499
+Bytom,Poland,Central and Eastern,yes,50.35,18.91,7.66,2499
+Caen,France,Western,yes,49.18,-0.35,9.96,4810
+Cambridge,United Kingdom,Western,yes,52.2,0.12,9.25,1344
+Cartagena,Spain,Southern,yes,37.6,-0.98,17.32,3479
+Catania,Italy,Southern,yes,37.5,15.08,15.04,4810
+Chemnitz,Germany,Western,yes,50.83,12.92,8.05,2962
+Cherkasy,Ukraine,Central and Eastern,yes,49.43,32.07,7.19,2061
+Chernihiv,Ukraine,Central and Eastern,yes,51.5,31.3,5.92,2061
+Chernivtsi,Ukraine,Central and Eastern,yes,48.31,25.92,7.06,2061
+Chisinau,Moldova,Central and Eastern,no,47.01,28.86,8.6,430
+Constanta,Romania,Central and Eastern,yes,44.2,28.61,11.24,2544
+Cork,Ireland,Western,yes,51.9,-8.5,9.41,1041
+Cosenza,Italy,Southern,yes,39.27,16.29,16.6,4810
+Craiova,Romania,Central and Eastern,yes,44.33,23.83,10.51,2544
+Daugavpils,Latvia,Northern,yes,55.88,26.51,5.38,311
+Debrecen,Hungary,Central and Eastern,no,47.53,21.63,8.87,1014
+Denizli,Turkey,Southern,yes,37.77,29.08,15.02,5137
+Dijon,France,Western,yes,47.33,5.03,8.69,4810
+Dublin,Ireland,Western,yes,53.33,-6.25,8.49,1041
+Dundee,United Kingdom,Western,yes,56.47,-3,6.4,1344
+Edinburgh,United Kingdom,Western,yes,55.95,-3.22,7.43,1344
+Edirne,Turkey,Southern,yes,41.67,26.57,10.9,5137
+Elbasan,Albania,Central and Eastern,yes,41.12,20.08,15.18,2764
+Elblag,Poland,Central and Eastern,yes,54.19,19.4,6.68,2499
+Erfurt,Germany,Western,yes,50.97,11.03,7.4,2962
+Erzincan,Turkey,Southern,yes,39.75,39.49,8.67,5137
+Erzurum,Turkey,Southern,yes,39.92,41.29,5.17,5137
+Eskisehir,Turkey,Southern,yes,39.79,30.53,11.11,5137
+Exeter,United Kingdom,Western,yes,50.7,-3.53,10.14,1344
+Foggia,Italy,Southern,yes,41.46,15.56,13.83,4810
+Frankfurt,Germany,Western,yes,50.1,8.68,7.98,2962
+Freiburg,Germany,Western,yes,48,7.87,6.68,2962
+Galway,Ireland,Western,yes,53.27,-9.05,10,1041
+Gaziantep,Turkey,Southern,yes,37.07,37.38,13.46,5137
+Geneva,Switzerland,Western,no,46.21,6.14,8.4,4634
+Genoa,Italy,Southern,yes,44.41,8.93,12.94,4810
+Glasgow,United Kingdom,Western,yes,55.87,-4.25,8.6,1344
+Göteborg,Sweden,Northern,yes,57.75,12,5.76,2104
+Granada,Spain,Southern,yes,37.16,-3.59,16.33,3479
+Graz,Austria,Western,no,47.08,15.41,6.91,3798
+Grenoble,France,Western,yes,45.18,5.72,8.4,4810
+Groningen,Netherlands,Western,yes,53.22,6.58,8.71,321
+Gyor,Hungary,Central and Eastern,no,47.7,17.63,9.65,1014
+Heidelberg,Germany,Western,yes,49.42,8.7,8.47,2962
+Helsinki,Finland,Northern,yes,60.18,24.93,4.19,1324
+Horlivka,Ukraine,Central and Eastern,yes,48.3,38.05,7.12,2061
+Hrodna,Belarus,Central and Eastern,no,53.68,23.83,6.07,345
+Huelva,Spain,Southern,yes,37.25,-6.93,17.09,3479
+Ingolstadt,Germany,Western,yes,48.77,11.45,7.57,2962
+Innsbruck,Austria,Western,no,47.28,11.41,4.54,3798
+Inverness,United Kingdom,Western,yes,57.47,-4.23,8,1344
+Istanbul,Turkey,Southern,yes,41.1,29.01,13.2,5137
+Kalamata,Greece,Southern,yes,37.04,22.11,17.3,2919
+Karaman,Turkey,Southern,yes,37.18,33.22,10.41,5137
+Karlsruhe,Germany,Western,yes,49,8.4,8.88,2962
+Kaunas,Lithuania,Northern,yes,54.95,23.88,6.05,294
+Kayseri,Turkey,Southern,yes,38.73,35.49,8.89,5137
+Kherson,Ukraine,Central and Eastern,yes,46.63,32.6,8.64,2061
+Kielce,Poland,Central and Eastern,yes,50.89,20.66,7.29,2499
+Kiev,Ukraine,Central and Eastern,yes,50.43,30.52,6.88,2061
+Kiruna,Sweden,Northern,yes,67.85,20.22,-2.2,2104
+Klaipeda,Lithuania,Northern,yes,55.72,21.12,7,294
+Kosice,Slovakia,Central and Eastern,no,48.73,21.25,7.31,2655
+Koszalin,Poland,Central and Eastern,yes,54.2,16.18,7.73,2499
+Kremenchuk,Ukraine,Central and Eastern,yes,49.08,33.43,7.43,2061
+Kryvyy Rih,Ukraine,Central and Eastern,yes,47.93,33.34,8.61,2061
+Le Mans,France,Western,yes,48,0.1,10.59,4810
+Lille,France,Western,yes,50.65,3.08,9.65,4810
+Limoges,France,Western,yes,45.83,1.25,10.32,4810
+Linz,Austria,Western,no,48.32,14.29,6.79,3798
+Lisbon,Portugal,Southern,yes,38.72,-9.14,15.52,1993
+Ljubljana,Slovenia,Central and Eastern,yes,46.06,14.51,9.27,2864
+Lvov,Ukraine,Central and Eastern,yes,49.83,24.03,7.04,2061
+Maastricht,Netherlands,Western,yes,50.85,5.68,8.63,321
+Madrid,Spain,Southern,yes,40.4,-3.68,11.19,3479
+Magdeburg,Germany,Western,yes,52.13,11.62,8.26,2962
+Makiyivka,Ukraine,Central and Eastern,yes,48.03,37.97,8.7,2061
+Malatya,Turkey,Southern,yes,38.37,38.3,14.13,5137
+Malmö,Sweden,Northern,yes,55.58,13.03,7.33,2104
+Manisa,Turkey,Southern,yes,38.63,27.44,15.1,5137
+Marbella,Spain,Southern,yes,36.52,-4.88,17.19,3479
+Marseille,France,Western,yes,43.29,5.38,14.98,4810
+Mazyr,Belarus,Central and Eastern,no,52.05,29.27,6.25,345
+Messina,Italy,Southern,yes,38.2,15.55,16.54,4810
+Metz,France,Western,yes,49.12,6.18,8.88,4810
+Milan,Italy,Southern,yes,45.47,9.21,6.65,4810
+Minsk,Belarus,Central and Eastern,no,53.9,27.57,5.28,345
+Montpellier,France,Western,yes,43.61,3.87,11.11,4810
+Mulhouse,France,Western,yes,47.75,7.35,6.68,4810
+Murcia,Spain,Southern,yes,37.98,-1.13,15,3479
+Nice,France,Western,yes,43.72,7.27,8.82,4810
+Nis,Serbia,Central and Eastern,no,43.33,21.9,9.36,2169
+Novi Sad,Serbia,Central and Eastern,no,45.25,19.85,10.34,2169
+Odense,Denmark,Northern,yes,55.4,10.38,7.73,171
+Ordu,Turkey,Southern,yes,41,37.87,11.92,5137
+Orsha,Belarus,Central and Eastern,no,54.52,30.42,4.93,345
+Oslo,Norway,Northern,yes,59.92,10.75,2.32,2469
+Ostrava,Czech Republic,Central and Eastern,no,49.83,18.25,7.66,1603
+Oulu,Finland,Northern,yes,65,25.47,1.45,1324
+Oviedo,Spain,Southern,yes,43.35,-5.83,10.85,3479
+Palermo,Italy,Southern,yes,38.13,13.35,17.9,4810
+Patras,Greece,Southern,yes,38.23,21.73,16.9,2919
+Perpignan,France,Western,yes,42.7,2.9,10.95,4810
+Perugia,Italy,Southern,yes,43.11,12.39,11.7,4810
+Pescara,Italy,Southern,yes,42.46,14.22,15.13,4810
+Pinsk,Belarus,Central and Eastern,no,52.13,26.09,6.42,345
+Pleven,Bulgaria,Central and Eastern,yes,43.42,24.61,10.51,2925
+Plovdiv,Bulgaria,Central and Eastern,yes,42.15,24.75,8.27,2925
+Podgorica,Montenegro,Central and Eastern,yes,42.47,19.27,9.99,2534
+Poznan,Poland,Central and Eastern,yes,52.41,16.9,8.31,2499
+Prague,Czech Republic,Central and Eastern,no,50.08,14.47,8.05,1603
+Reims,France,Western,yes,49.25,4.03,9.4,4810
+Riga,Latvia,Northern,yes,56.95,24.1,5.16,311
+Rijeka,Croatia,Central and Eastern,yes,45.33,14.45,9.27,1831
+Rivne,Ukraine,Central and Eastern,yes,50.62,26.25,6.76,2061
+Rome,Italy,Southern,yes,41.9,12.48,15.1,4810
+Rostock,Germany,Western,yes,54.07,12.15,8.07,2962
+Ruse,Bulgaria,Central and Eastern,yes,43.85,25.97,10.59,2925
+Salamanca,Spain,Southern,yes,40.97,-5.67,11.63,3479
+Salzburg,Austria,Western,no,47.81,13.04,4.62,3798
+Samsun,Turkey,Southern,yes,41.28,36.34,12.05,5137
+Santander,Spain,Southern,yes,43.38,-3.8,13.4,3479
+Sarajevo,Bosnia and Herzegovina,Central and Eastern,no,43.85,13.38,9.6,2386
+Sibiu,Romania,Central and Eastern,yes,45.8,24.14,6.97,2544
+Siirt,Turkey,Southern,yes,37.94,41.93,12.48,5137
+Sivas,Turkey,Southern,yes,39.75,37.03,8.05,5137
+Skopje,Macedonia,Southern,no,42,21.43,9.36,2764
+Split,Croatia,Central and Eastern,yes,43.52,16.47,12.46,1831
+Stara Zagora,Bulgaria,Central and Eastern,yes,42.42,25.62,10.9,2925
+Stavanger,Norway,Northern,yes,58.97,5.68,5.53,2469
+Stockholm,Sweden,Northern,yes,59.35,18.1,6.26,2104
+Sumy,Ukraine,Central and Eastern,yes,50.92,34.78,6.28,2061
+Swansea,United Kingdom,Western,yes,51.63,-3.95,9.73,1344
+Szeged,Hungary,Central and Eastern,no,46.25,20.15,10.34,1014
+Tallinn,Estonia,Northern,yes,59.43,24.73,4.82,318
+Tampere,Finland,Northern,yes,61.5,23.75,3.59,1324
+Tarsus,Turkey,Southern,yes,36.92,34.88,11.21,5137
+Tartu,Estonia,Northern,yes,58.38,26.71,4.36,318
+Tekirdag,Turkey,Southern,yes,40.99,27.51,13.02,5137
+Toulouse,France,Western,yes,43.62,1.45,10.25,4810
+Trabzon,Turkey,Southern,yes,40.98,39.72,10.28,5137
+Trieste,Italy,Southern,yes,45.65,13.8,11.21,4810
+Trikala,Greece,Southern,yes,39.56,21.77,16,2919
+Trondheim,Norway,Northern,yes,63.42,10.42,4.53,2469
+Turku,Finland,Northern,yes,60.45,22.25,4.72,1324
+Uppsala,Sweden,Northern,yes,59.86,17.64,4.17,2104
+Valencia,Spain,Southern,yes,39.49,-0.4,16.02,3479
+Vienna,Austria,Western,no,48.2,16.37,7.86,3798
+Vigo,Spain,Southern,yes,42.22,-8.73,12.85,3479
+Vilnius,Lithuania,Northern,yes,54.68,25.32,5.38,294
+Warsaw,Poland,Central and Eastern,yes,52.25,21,7.2,2499
+Wroclaw,Poland,Central and Eastern,yes,51.11,17.03,7.17,2499
+Yevpatoriya,Ukraine,Central and Eastern,yes,45.2,33.36,10.02,2061
+Zaragoza,Spain,Southern,yes,41.65,-0.89,14.17,3479
+Zhytomyr,Ukraine,Central and Eastern,yes,50.25,28.66,6.67,2061
+Zonguldak,Turkey,Southern,yes,41.43,31.78,10.64,5137
+Zurich,Switzerland,Western,no,47.38,8.56,6.68,4634

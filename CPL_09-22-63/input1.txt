@@ -1,0 +1,6 @@
+Chelsea,7,18
+Arsenal,20,8
+Liverpool,20,13
+Crystal Palace,9,19
+Norwich,27,4
+Manchester United,6,199
