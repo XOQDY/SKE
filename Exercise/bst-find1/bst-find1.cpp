@@ -31,10 +31,10 @@ bool in(TreeNode* r, valueType x)
         return false;
     if (r->val == x)
         return true;
-    if (!in(r->left, x))
-        return in(r->right, x);
+    else if (r->val > x)
+        return in(r->left, x);
     else
-        return true;
+        return in(r->right, x);
 }
 
 int main()
