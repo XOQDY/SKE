@@ -1,0 +1,8 @@
+Leicester,7,18
+Sheff Utd,20,8
+West Ham,20,13
+Tottenham,9,19
+Wolve,27,4
+Burnley FC,6,19
+Man.city,22,10
+Aston Villa,19,9

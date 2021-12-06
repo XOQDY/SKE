@@ -1,0 +1,118 @@
+-------------
+>>> Main menu
+1.Play game
+2.Add player’s budget
+3.View player’s profile 
+4.View stat
+5.Quit program
+Enter menu choice: 1
+-------------
+Blackjack starting…
+How many players? 4
+# program randomly select 4 players 
+# output from task 2 but incorporate updating budget, number of wins and losses
+Next round? No
+-------------
+>>> Main menu
+1.Play game
+2.Add player’s budget
+3.View player’s profile 
+4.View stat
+5.Quit program
+Enter menu choice: 3
+-------------
+Enter player’s name: Anna
+Anna, F, South
+Budget = 1000	
+Number of wins = 144	
+Number of losses = 127
+
+(V)iew more profile or (B)ack to main menu: V
+Enter player’s name: Frank
+Frank, M, South
+Budget = 4000	
+Number of wins = 115	
+Number of losses = 144
+
+(V)iew more profile or (B)ack to main menu: B
+-------------
+>>> Main menu
+1.Play game
+2.Add player’s budget
+3.View player’s profile 
+4.View stat
+5.Quit program
+Enter menu choice: 2
+-------------
+Enter player’s name: Frank
+Enter added budget: 1000
+1000 added.
+Frank, M, South
+Budget = 5000	
+Number of wins = 115	
+Number of losses = 144
+-------------
+>>> Main menu
+1.Play game
+2.Add player’s budget
+3.View player’s profile 
+4.View stat
+5.Quit program
+Enter menu choice: 4
+-------------
+Stat choices:
+A.Top five players with maximum number of wins
+B.Top five male players with maximum number of wins
+C.Top five female players with maximum number of wins
+D.Top region players with maximum number of wins
+E.Top region male players with maximum number of wins
+F.Top region female players with maximum number of wins
+
+Enter stat choice: C
+Bertha, 200
+Mattie, 199
+Mary, 196
+Clara, 196
+Myrtle 192
+
+(V)iew more stat or (B)ack to main menu: V
+Stat choices:
+A.Top five players with maximum number of wins
+B.Top five male players with maximum number of wins
+C.Top five female players with maximum number of wins
+D.Top region players with maximum number of wins
+E.Top region male players with maximum number of wins
+F.Top region female players with maximum number of wins
+
+Enter stat choice: D
+Northeast, Jesse, M, 189
+Midwest, Myrtle, F, 192
+South, Bertha, F, 200
+West, Mattie, F, 199
+
+(V)iew more stat or (B)ack to main menu: V
+Stat choices:
+A.Top five players with maximum number of wins
+B.Top five male players with maximum number of wins
+C.Top five female players with maximum number of wins
+D.Top region players with maximum number of wins
+E.Top region male players with maximum number of wins
+F.Top region female players with maximum number of wins
+
+Enter stat choice: E
+Northeast, Jesse, M, 189
+Midwest, Peter, M, 154
+South, Tom, M, 192
+West, Bert, M, 191
+
+(V)iew more stat or (B)ack to main menu: B
+-------------
+>>> Main menu
+1.Play game
+2.Add player’s budget
+3.View player’s profile 
+4.View stat
+5.Quit program
+Enter menu choice: 5
+-------------
+Bye!

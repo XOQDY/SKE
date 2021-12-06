@@ -1,0 +1,126 @@
+How many players to deal? 3
+
+Player 0 hand: 6♠ Ace♣ 
+Player 1 hand: 6♣ 5♣ 
+Player 2 hand: Jack♦ 3♥ 
+Computer hand: Jack♣ 
+
+Player 0 hand: 6♠ Ace♣ 
+More cards? Yes
+Player 0 hand: 6♠ Ace♣ 7♦ 
+Player 0 hand: 6♠ Ace♣ 7♦ 
+More cards? Yes
+Player 0 hand: 6♠ Ace♣ 7♦ 5♠ 
+Player 0 hand: 6♠ Ace♣ 7♦ 5♠ 
+More cards? No
+
+Player 1 hand: 6♣ 5♣ 3♣ 
+Player 1 hand: 6♣ 5♣ 3♣ 2♥ 
+Player 1 hand: 6♣ 5♣ 3♣ 2♥ 
+More cards? Yes
+Player 1 hand: 6♣ 5♣ 3♣ 2♥ King♠ 
+
+Player 2 hand: Jack♦ 3♥ Ace♠ 
+Player 2 hand: Jack♦ 3♥ Ace♠ 8♠ 
+
+Computer hand: 8♥ Jack♣ 
+
+Player 0 wins
+Player 1 looses
+Player 2 looses
+
+Player 0 scores 1
+Player 1 scores -1
+Player 2 scores -1
+Computer scores 1
+
+Next round? Yes
+
+Player 0 hand: 6♦ Queen♠ 
+Player 1 hand: 10♣ Queen♦ 
+Player 2 hand: 2♣ 4♣ 
+Computer hand: King♠ 
+
+Player 0 hand: 6♦ Queen♠ 
+More cards? No
+
+Player 1 hand: 10♣ Queen♦ 
+More cards? No
+
+Player 2 hand: 2♣ 4♣ 10♦ 
+Player 2 hand: 2♣ 4♣ 10♦ 
+More cards? Yes
+Player 2 hand: 2♣ 4♣ 10♦ 4♥ 
+Player 2 hand: 2♣ 4♣ 10♦ 4♥ 
+More cards? No
+
+Computer hand: 7♣ King♠ 
+
+Player 0 looses
+Player 1 wins
+Player 2 wins
+
+Player 0 scores 0
+Player 1 scores 0
+Player 2 scores 0
+Computer scores 0
+
+Next round? Yes
+
+Player 0 hand: Ace♥ 9♠ 
+Player 1 hand: 4♣ Queen♦ 
+Player 2 hand: 6♥ 10♠ 
+Computer hand: 5♠ 
+
+Player 0 hand: Ace♥ 9♠ 
+More cards? No
+
+Player 1 hand: 4♣ Queen♦ 5♦ 
+Player 1 hand: 4♣ Queen♦ 5♦ 
+More cards? No
+
+Player 2 hand: 6♥ 10♠ 
+More cards? No
+
+Computer hand: 5♠ 3♥ 
+Computer hand: 5♠ 3♥ Ace♠ 
+Computer hand: 5♠ 3♥ Ace♠ 10♦ 
+Computer hand: 3♦ 5♠ 3♥ Ace♠ 10♦ 
+
+Player 0 wins
+Player 1 wins
+Player 2 wins
+
+Player 0 scores 1
+Player 1 scores 1
+Player 2 scores 1
+Computer scores -3
+
+Next round? Yes
+
+Player 0 hand: 5♠ Queen♦ 
+Player 1 hand: 9♦ 5♥ 
+Player 2 hand: King♦ 3♦ 
+Computer hand: Queen♥ 
+
+Player 0 hand: 5♠ Queen♦ 2♥ 
+Player 0 hand: 5♠ Queen♦ 2♥ 
+More cards? No
+
+Player 1 hand: 9♦ 5♥ Jack♦ 
+
+Player 2 hand: King♦ 3♦ 10♥ 
+
+Computer hand: Queen♥ 10♣ 
+Computer hand: 3♥ Queen♥ 10♣ 
+
+Player 0 wins
+Player 1 ties
+Player 2 ties
+
+Player 0 scores 2
+Player 1 scores 1
+Player 2 scores 1
+Computer scores -4
+
+Next round? No

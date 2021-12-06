@@ -1,0 +1,1 @@
+print("1=List comparison\n2=Partial sum\n3=Find max\n0=Quit")
