@@ -33,8 +33,8 @@ bool in(TreeNode* r, valueType x)
         return true;
     if (!in(r->left, x))
         return in(r->right, x);
-
-    return false;
+    else
+        return true;
 }
 
 int main()
