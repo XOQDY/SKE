@@ -1,4 +1,0 @@
-David, 3, 4
-Eric, 0, 3
-Francis, 2, 5
-Gary, 1, 6
